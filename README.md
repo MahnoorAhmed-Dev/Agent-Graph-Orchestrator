@@ -15,7 +15,6 @@ Agent Graph Orchestrator is a graph-based multi-agent orchestration framework th
 - [Development & Tests](#development--tests)
 - [Contributing](#contributing)
 - [Author](#author)
-- [License](#license)
 
 ## Overview
 Agent Graph Orchestrator is a graph-based multi-agent system that structures interactions between AI agents using directed graphs. Instead of linear pipelines, this project models agents as nodes and their communication as edges, enabling modular, scalable, and interpretable orchestration of complex tasks.
@@ -132,6 +131,3 @@ See CONTRIBUTING.md (coming soon) for details.
 
 ## Author
 Mahnoor Ahmed — MahnoorAhmed-Dev
-
-## License
-TBD (add a license file, e.g., MIT)
